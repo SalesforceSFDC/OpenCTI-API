@@ -1,1 +1,1 @@
-# OpenCTI-API
+# Open CTI API
