@@ -1,4 +1,9 @@
 <!--
+     A call center definition file specifies a set of fields and values that are used to define 
+     a call center in Salesforce for a particular softphone. 
+     Salesforce uses call center definition files to support the integration of Salesforce CRM Call Center 
+     with multiple CTI system vendors.
+
      All sections and items whose name value begins with "req" are
      required in a valid call center definition file. The sortOrder
      and label attributes can be changed for all required sections
